@@ -1,61 +1,41 @@
-# 👋 Hi there, I'm Shyam!
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://your-portfolio-url.com)
+<h1 align="center">Hi 👋, I'm Shyam Shunmugam G</h1>
+<h3 align="center">A passionate Full Stack Developer & Computer Science Engineer</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-🎓 Pre-final year Computer Science Engineering student  
-💻 Passionate about building impactful software and solving real-world problems  
-🚀 Currently exploring MERN stack, Spring Boot microservices, and system design  
-📌 Actively building: Faculty Profile Management System | Neighborhood Services Finder | Alumni Job Portal
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShyamG004&label=Profile%20views&color=0e75b6&style=flat" alt="Shyam" /> </p>
 
----
+<p align="left"> <a href="https://x.com/ShyamG004" target="blank"><img src="https://img.shields.io/twitter/follow/ShyamG004?logo=twitter&style=for-the-badge" alt="twitter" /></a> </p>
 
-## 🧰 Tech Stack
+- 🔭 I’m currently pursuing my **Bachelor of Engineering in Computer Science** (2022–2026)  
+- 🌱 I’m currently learning **Full Stack Web Development**  
+- 💬 Ask me about **Node.js, React, JavaScript, DSA, JSP**  
+- 📫 Reach me at: **shyamshunmugam2005@gmail.com**  
+- ⚡ Fun fact: I love solving DSA problems and building useful tools  
 
-**Languages:**  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://x.com/ShyamG004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shyam-shunmugam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://github.com/ShyamG004" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" height="30" width="40" /></a>
+<a href="https://leetcode.com/ShyamG2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" alt="leetcode" height="30" width="40" /></a>
+</p>
 
-**Web & Backend:**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+<a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
+<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+<a href="https://cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
+</p>
 
-**Database:**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-
-**Tools & Platforms:**  
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
----
-
-## 🌱 I’m currently learning
-
-- System Design & DSA (C++/Go)
-- Advanced Backend Architecture with Spring Boot & Microservices
-- Cloud & DevOps Fundamentals
-
----
-
-## ✨ Projects
-
-- 🔹 **Faculty Profile Management System** – Simplified academic profile tracking using Spring Boot + MySQL  
-- 🔹 **Neighborhood Services Finder** – React + Node.js platform to find and rate local service providers  
-- 🔹 **Alumni Job Portal** – MERN project connecting alumni with job opportunities and requests  
-
-Check out pinned repos for more 🚀
-
----
-
-## 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/)  
-📧 Email: shyamshunmugamg@gmail.com
-
----
-
-⭐️ *Thanks for visiting my GitHub!*
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShyamG004&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Shyam" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShyamG004&show_icons=true&locale=en&theme=tokyonight" alt="Shyam" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShyamG004&theme=tokyonight" alt="Shyam" /></p>
