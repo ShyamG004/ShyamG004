@@ -45,7 +45,7 @@
 
 ## 📬 Contact
 
-- 📧 **Email:** shyamshunmugam2005@gmail.com
+- 📧 **Email:** shyamshunmugamg@gmail.com
 - 🔗 **LinkedIn:** [shyam-shunmugam](https://www.linkedin.com/in/shyam-shunmugam/)
 - 🐦 **Twitter:** [@ShyamG004](https://twitter.com/ShyamG004)
 
